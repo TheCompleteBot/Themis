@@ -1,0 +1,72 @@
+**Employment Agreement**
+
+**Parties:**
+
+This Employment Agreement ("Agreement") is entered into on this [Date], between:
+
+**First Party:**
+ABC Tech Solutions Pvt. Ltd.
+[Address of ABC Tech Solutions Pvt. Ltd.]
+
+**Second Party:**
+John Doe
+[Address of John Doe]
+
+**Details:**
+
+**Position:** Senior Software Developer
+
+**Salary:** 100,000 INR per month
+
+**Start Date:** 2024-03-01
+
+**Location:** Mumbai, Maharashtra
+
+**Working Hours:** 40 hours per week
+
+**Probation Period:** 3 months
+
+**Notice Period:** 2 months
+
+**Terms and Conditions:**
+
+**1. Employment:**
+ABC Tech Solutions Pvt. Ltd. hereby employs John Doe as a Senior Software Developer, and John Doe accepts such employment under the terms and conditions set forth in this Agreement.
+
+**2. Duties and Responsibilities:**
+John Doe shall perform the duties and responsibilities of a Senior Software Developer as assigned by ABC Tech Solutions Pvt. Ltd. John Doe shall devote his full working time, attention, and energies to the performance of his duties.
+
+**3. Compensation:**
+In consideration of the services provided by John Doe, ABC Tech Solutions Pvt. Ltd. shall pay John Doe a monthly salary of 100,000 INR, payable on a monthly basis.
+
+**4. Probation Period:**
+John Doe's employment shall be subject to a probation period of 3 months, during which either party may terminate the employment with a notice period of 2 weeks.
+
+**5. Confidentiality:**
+During and after the termination of employment, John Doe shall maintain the confidentiality of all proprietary and confidential information of ABC Tech Solutions Pvt. Ltd.
+
+**6. Termination:**
+Either party may terminate this Agreement upon giving a written notice of 2 months to the other party.
+
+**7. Governing Law:**
+This Agreement shall be governed by and construed in accordance with the laws of India.
+
+**8. Entire Agreement:**
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior agreements, understandings, negotiations, and discussions.
+
+**Signatures:**
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+ABC Tech Solutions Pvt. Ltd.
+
+Signature: _______________________
+Name: [Authorized Signatory]
+Title: [Authorized Signatory Title]
+Date: _______________
+
+John Doe
+
+Signature: _______________________
+Name: John Doe
+Date: _______________
